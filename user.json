@@ -1,0 +1,332 @@
+{
+    "student1": {
+        "password": "pass001",
+        "name": "นาย กฤษฎา รักดี",
+        "age": 20,
+        "grade": "12th",
+        "major": "Computer Science",
+        "gpa": 3.5,
+        "image": "images/student1.jpg",
+        "courses": ["Advanced Math", "Physics", "Computer Programming"]
+    },
+    "student2": {
+        "password": "pass002",
+        "name": "นาย ฐิติพงษ์ เสนาอินทร์",
+        "age": 21,
+        "grade": "12th",
+        "major": "Biology",
+        "gpa": 3.6,
+        "image": "images/student4.jpg",
+        "courses": ["Biology", "Chemistry", "Environmental Science"]
+    },
+    "student3": {
+        "password": "pass003",
+        "name": "นาย ณัฐวัชร ใจตรง",
+        "age": 22,
+        "grade": "12th",
+        "major": "Mathematics",
+        "gpa": 3.7,
+        "image": "images/student7.jpg",
+        "courses": ["Calculus", "Algebra", "Statistics"]
+    },
+    "student4": {
+        "password": "pass004",
+        "name": "นาย ตฤณ อ่อนท้วม",
+        "age": 20,
+        "grade": "12th",
+        "major": "Physics",
+        "gpa": 3.8,
+        "image": "images/student9.jpg",
+        "courses": ["Quantum Physics", "Classical Mechanics", "Thermodynamics"]
+    },
+    "student5": {
+        "password": "pass005",
+        "name": "นาย เตชิต อัจจิมากูล",
+        "age": 21,
+        "grade": "12th",
+        "major": "Computer Engineering",
+        "gpa": 3.9,
+        "image": "images/student10.jpg",
+        "courses": ["Digital Systems", "Microprocessors", "Data Structures"]
+    },
+    "student6": {
+        "password": "pass006",
+        "name": "นาย เตชินท์ สอนโยธา",
+        "age": 22,
+        "grade": "11th",
+        "major": "Electrical Engineering",
+        "gpa": 3.6,
+        "image": "images/student67.jpg",
+        "courses": ["Circuit Theory", "Electromagnetics", "Control Systems"]
+    },
+    "student7": {
+        "password": "pass007",
+        "name": "นาย ธนกร ชูศูนย์",
+        "age": 23,
+        "grade": "11th",
+        "major": "Mechanical Engineering",
+        "gpa": 3.7,
+        "image": "student15",
+        "courses": ["Thermodynamics", "Fluid Mechanics", "Statics"]
+    },
+    "student8": {
+        "password": "pass008",
+        "name": "นาย ปฏิวัติ ขำอวยชัย",
+        "age": 24,
+        "grade": "12th",
+        "major": "Civil Engineering",
+        "gpa": 3.8,
+        "image": "patiwat_khamuaychai.jpg",
+        "courses": ["Structural Analysis", "Geotechnical Engineering", "Hydraulics"]
+    },
+    "student9": {
+        "password": "pass009",
+        "name": "นางสาว ปวีณา ขาวเอี่ยม",
+        "age": 20,
+        "grade": "12th",
+        "major": "Architectural Design",
+        "gpa": 3.9,
+        "image": "paveena_khaoem.jpg",
+        "courses": ["Architectural Drawing", "Building Materials", "Environmental Design"]
+    },
+    "student10": {
+        "password": "pass010",
+        "name": "นางสาว พิชญา บุญภิละ",
+        "age": 21,
+        "grade": "12th",
+        "major": "Art and Design",
+        "gpa": 3.6,
+        "image": "pitchaya_boonphila.jpg",
+        "courses": ["Visual Arts", "Graphic Design", "Sculpture"]
+    },
+    "student11": {
+        "password": "pass011",
+        "name": "นางสาว พิชญาภา เอี่ยมศรี",
+        "age": 22,
+        "grade": "11th",
+        "major": "Communication Arts",
+        "gpa": 3.7,
+        "image": "pitchayapa_iemsri.jpg",
+        "courses": ["Media Studies", "Public Relations", "Journalism"]
+    },
+    "student12": {
+        "password": "pass012",
+        "name": "นาย ภูคินทร์ อินทร์ธนู",
+        "age": 23,
+        "grade": "11th",
+        "major": "Business Administration",
+        "gpa": 3.8,
+        "image": "phukhin_inthanu.jpg",
+        "courses": ["Marketing", "Finance", "Human Resources"]
+    },
+    "student13": {
+        "password": "pass013",
+        "name": "นาย ฤธิเดช อาจหาญ",
+        "age": 24,
+        "grade": "12th",
+        "major": "International Relations",
+        "gpa": 3.9,
+        "image": "rithidet_achhan.jpg",
+        "courses": ["Global Politics", "International Law", "Diplomacy"]
+    },
+    "student14": {
+        "password": "pass014",
+        "name": "นางสาว ลดาวรรณ โคกแก้ว",
+        "age": 20,
+        "grade": "12th",
+        "major": "Education",
+        "gpa": 3.6,
+        "image": "ladaowan_kokkaew.jpg",
+        "courses": ["Educational Psychology", "Curriculum Development", "Teaching Methods"]
+    },
+    "student15": {
+        "password": "pass015",
+        "name": "นางสาว วรรณชนก กาญจนากร",
+        "age": 21,
+        "grade": "12th",
+        "major": "Health Sciences",
+        "gpa": 3.7,
+        "image": "wanchanok_kanjanakorn.jpg",
+        "courses": ["Nutrition", "Public Health", "Epidemiology"]
+    },
+    "student16": {
+        "password": "pass016",
+        "name": "นางสาว วริศรา คำดี",
+        "age": 22,
+        "grade": "11th",
+        "major": "Nursing",
+        "gpa": 3.8,
+        "image": "waritsara_kamdee.jpg",
+        "courses": ["Patient Care", "Pharmacology", "Nursing Ethics"]
+    },
+    "student17": {
+        "password": "pass017",
+        "name": "นาย สมศักดิ์",
+        "age": 23,
+        "grade": "11th",
+        "major": "Physics",
+        "gpa": 3.9,
+        "image": "somsak.jpg",
+        "courses": ["Quantum Mechanics", "Electromagnetism", "Statistical Physics"]
+    },
+    "student18": {
+        "password": "pass018",
+        "name": "นางสาว หฤทัย นิ่มขันทอง",
+        "age": 24,
+        "grade": "12th",
+        "major": "Psychology",
+        "gpa": 3.6,
+        "image": "haruthai_nimkanthong.jpg",
+        "courses": ["Clinical Psychology", "Cognitive Psychology", "Social Psychology"]
+    },
+    "student19": {
+        "password": "pass019",
+        "name": "นางสาว อภิญญา ทาเกตุ",
+        "age": 20,
+        "grade": "12th",
+        "major": "Political Science",
+        "gpa": 3.7,
+        "image": "aphinya_taketu.jpg",
+        "courses": ["Political Theory", "Comparative Politics", "Public Policy"]
+    },
+    "student20": {
+        "password": "pass020",
+        "name": "นาย อัษฎา จาดชนบท",
+        "age": 21,
+        "grade": "12th",
+        "major": "Engineering Management",
+        "gpa": 3.8,
+        "image": "atsada_jadchanabot.jpg",
+        "courses": ["Project Management", "Operations Management", "Strategic Management"]
+    },
+    "student21": {
+        "password": "pass021",
+        "name": "นางสาว สโรชา ตันโต",
+        "age": 22,
+        "grade": "11th",
+        "major": "Information Technology",
+        "gpa": 3.9,
+        "image": "sarocha_tanto.jpg",
+        "courses": ["Database Systems", "Networking", "Information Security"]
+    },
+    "student22": {
+        "password": "pass022",
+        "name": "นางสาว สิริพรรณ อุดทุมพร",
+        "age": 23,
+        "grade": "11th",
+        "major": "Telecommunications",
+        "gpa": 3.6,
+        "image": "siriphan_udthumphon.jpg",
+        "courses": ["Signal Processing", "Wireless Communications", "Optical Networks"]
+    },
+    "student23": {
+        "password": "pass023",
+        "name": "นางสาว สิริวรรณ อุดทุมพร",
+        "age": 24,
+        "grade": "12th",
+        "major": "Software Engineering",
+        "gpa": 3.7,
+        "image": "sirivann_udthumphon.jpg",
+        "courses": ["Software Development", "Systems Analysis", "Project Management"]
+    },
+    "student24": {
+        "password": "pass024",
+        "name": "นางสาว สุธิดา กลิ่นลำดวน",
+        "age": 22,
+        "grade": "12th",
+        "major": "Data Science",
+        "gpa": 3.8,
+        "image": "suthida_klinduan.jpg",
+        "courses": ["Data Analysis", "Machine Learning", "Big Data"]
+    },
+    "student25": {
+        "password": "pass025",
+        "name": "นางสาว สุพัชชา องประโคน",
+        "age": 23,
+        "grade": "12th",
+        "major": "Statistics",
+        "gpa": 3.9,
+        "image": "supachara_ongprakon.jpg",
+        "courses": ["Probability", "Statistical Inference", "Data Visualization"]
+    },
+    "student26": {
+        "password": "pass026",
+        "name": "นางสาว สุภัชชา จรรยา",
+        "age": 20,
+        "grade": "11th",
+        "major": "Applied Mathematics",
+        "gpa": 3.6,
+        "image": "supatcha_janya.jpg",
+        "courses": ["Applied Calculus", "Mathematical Modeling", "Optimization"]
+    },
+    "student27": {
+        "password": "pass027",
+        "name": "นางสาว สุภัสรา เวชโช",
+        "age": 21,
+        "grade": "11th",
+        "major": "Bioinformatics",
+        "gpa": 3.7,
+        "image": "supatsara_wechho.jpg",
+        "courses": ["Genomics", "Proteomics", "Biostatistics"]
+    },
+    "student28": {
+        "password": "pass028",
+        "name": "นาย จิรเมธ มาคณิต",
+        "age": 22,
+        "grade": "12th",
+        "major": "Environmental Science",
+        "gpa": 3.8,
+        "image": "jirameth_makhanit.jpg",
+        "courses": ["Environmental Policy", "Ecology", "Sustainability"]
+    },
+    "student29": {
+        "password": "pass029",
+        "name": "นางสาว ธิดา ดาปาน",
+        "age": 23,
+        "grade": "12th",
+        "major": "Chemistry",
+        "gpa": 3.9,
+        "image": "thida_dapan.jpg",
+        "courses": ["Organic Chemistry", "Inorganic Chemistry", "Physical Chemistry"]
+    },
+    "student30": {
+        "password": "pass030",
+        "name": "นางสาว โสรญา โลหิตยา",
+        "age": 20,
+        "grade": "11th",
+        "major": "Physics",
+        "gpa": 3.6,
+        "image": "soraya_lohitaya.jpg",
+        "courses": ["Classical Mechanics", "Optics", "Quantum Physics"]
+    },
+    "student31": {
+        "password": "pass031",
+        "name": "นางสาว วรพิชชา ไกรดลธรรม",
+        "age": 21,
+        "grade": "11th",
+        "major": "Mathematics",
+        "gpa": 3.7,
+        "image": "vorapitcha_kraydoltham.jpg",
+        "courses": ["Differential Equations", "Number Theory", "Combinatorics"]
+    },
+    "student32": {
+        "password": "pass032",
+        "name": "นางสาว พัชรวิภา ชะเอม",
+        "age": 22,
+        "grade": "12th",
+        "major": "Philosophy",
+        "gpa": 3.8,
+        "image": "patcharawipa_chaeam.jpg",
+        "courses": ["Ethics", "Logic", "Metaphysics"]
+    },
+    "student33": {
+        "password": "pass033",
+        "name": "นาย ภัทราวุธ บุญหลง",
+        "age": 23,
+        "grade": "12th",
+        "major": "Economics",
+        "gpa": 3.9,
+        "image": "patharawat_boonlong.jpg",
+        "courses": ["Microeconomics", "Macroeconomics", "Economic Theory"]
+    }
+}
