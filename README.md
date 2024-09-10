@@ -14,4 +14,4 @@ The **Student Information System** is a modern Tkinter-based application designe
 
 1. **Clone the Repository** (if applicable):
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/XevilA/students.git
