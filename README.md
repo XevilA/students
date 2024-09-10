@@ -1,4 +1,4 @@
-# Student Information System
+# 🎓 Student Information System
 
 ## Overview
 
@@ -10,8 +10,10 @@ The **Student Information System** is a modern Tkinter-based application designe
 - **Student Information**: Display student details such as name, age, grade, and a profile image.
 - **Study Schedule**: Show study schedules with images for each weekday.
 
+<img src= "app.jpg">
 ## Installation
 
-1. **Clone the Repository** (if applicable):
+1. **Clone the Repository**:
    ```bash
    git clone https://github.com/XevilA/students.git
+   cd students
