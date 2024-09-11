@@ -24,15 +24,15 @@ class StudentApp(tk.Tk):
         self.show_student_selection()
 
     def load_database(self):
-
+        # Load student data from JSON
         if not os.path.exists("user.json"):
             self.create_sample_database()
         with open("user.json", "r") as f:
             self.students = json.load(f)
 
-       
-        if not os.path.exists("face_encodings.pkl") or not os.path.exists("face_labels.pkl"):
-            raise FileNotFoundError("Face encodings or labels not found. Please provide 'face_encodings.pkl' and 'face_labels.pkl'.")
+        # Load face encodings and labels from pickle files
+        if not os.path.exists("student_face_model.pkl") or not os.path.exists("student_labels.pkl"):
+            raise FileNotFoundError("Face encodings or labels not found. Please provide 'student_face_model.pkl' and 'student_labels.pkl'.")
 
         with open("student_face_model.pkl", "rb") as f:
             self.known_face_encodings = pickle.load(f)
@@ -41,7 +41,7 @@ class StudentApp(tk.Tk):
             self.known_face_labels = pickle.load(f)
 
     def create_sample_database(self):
-  
+        # Create a sample database of students
         students = {}
         for i in range(1, 34):
             student_id = f"student{i}"
@@ -72,20 +72,20 @@ class StudentApp(tk.Tk):
         self.destroy()
 
     def recognize_face(self, image_path):
-    
+        # Load the image for face recognition
         input_image = face_recognition.load_image_file(image_path)
         face_encodings = face_recognition.face_encodings(input_image)
         
-   
+        # If no faces are found in the image
         if len(face_encodings) == 0:
             return None
 
-       
+        # Compare the first face found with the known faces
         input_encoding = face_encodings[0]
         matches = face_recognition.compare_faces(self.known_face_encodings, input_encoding)
         face_distances = face_recognition.face_distance(self.known_face_encodings, input_encoding)
         
-   
+        # Find the best match
         best_match_index = np.argmin(face_distances)
         
         if matches[best_match_index]:
