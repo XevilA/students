@@ -13,6 +13,10 @@ The **Student Information System** is a modern Tkinter-based application designe
 <img src= "app.jpg">
 ## Installation
 
+**Install Library**:
+   pip install ttkbootstrap pillow numpy pickle face_recognition
+
+
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/XevilA/students.git
