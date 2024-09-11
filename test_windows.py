@@ -21,21 +21,24 @@ class StudentApp(tk.Tk):
         self.show_student_selection()
 
     def load_database(self):
-        # Load student data from JSON
-        if not os.path.exists("user.json"):
-            self.create_sample_database()
-        with open("user.json", "r") as f:
-            self.students = json.load(f)
+    # Load student data from JSON
+     if not os.path.exists("user.json"):
+        self.create_sample_database()
+        
+    # Open the JSON file with utf-8 encoding
+     with open("user.json", "r", encoding="utf-8") as f:
+        self.students = json.load(f)
 
-        # Load face encodings and labels from pickle files
-        if not os.path.exists("student_face_model.pkl") or not os.path.exists("student_labels.pkl"):
-            raise FileNotFoundError("Face encodings or labels not found. Please provide 'student_face_model.pkl' and 'student_labels.pkl'.")
+    # Load face encodings and labels from pickle files
+     if not os.path.exists("student_face_model.pkl") or not os.path.exists("student_labels.pkl"):
+        raise FileNotFoundError("Face encodings or labels not found. Please provide 'student_face_model.pkl' and 'student_labels.pkl'.")
 
-        with open("student_face_model.pkl", "rb") as f:
-            self.known_face_encodings = pickle.load(f)
+     with open("student_face_model.pkl", "rb") as f:
+        self.known_face_encodings = pickle.load(f)
 
-        with open("student_labels.pkl", "rb") as f:
-            self.known_face_labels = pickle.load(f)
+     with open("student_labels.pkl", "rb") as f:
+        self.known_face_labels = pickle.load(f)
+
 
     def create_sample_database(self):
         # Create a sample database of students
