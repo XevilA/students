@@ -1,240 +1,169 @@
 {
-    "student1": {
-        "password": "pass001",
-        "name": "นาย กฤษฎา รักดี",
-        "age": 20,
-        "grade": "12th",
-        "image": "images/student1.jpg"
-    },
-    "student2": {
-        "password": "pass002",
-        "name": "นาย ฐิติพงษ์ เสนาอินทร์",
-        "age": 21,
-        "grade": "12th",
-        "image": "images/student4.jpg"
-    },
-    "student3": {
-        "password": "pass003",
-        "name": "นาย ณัฐวัชร ใจตรง",
-        "age": 22,
-        "grade": "12th",
-        "image": "images/student7.jpg"
-    },
-    "student4": {
-        "password": "pass004",
-        "name": "นาย ตฤณ อ่อนท้วม",
-        "age": 20,
-        "grade": "12th",
-        "image": "images/student9.jpg"
-    },
-    "student5": {
-        "password": "pass005",
-        "name": "นาย เตชิต อัจจิมากูล",
-        "age": 21,
-        "grade": "12th",
-        "image": "images/student10.jpg"
-    },
-    "student6": {
-        "password": "pass006",
-        "name": "นาย เตชินท์ สอนโยธา",
-        "age": 22,
-        "grade": "11th",
-        "image": "images/student67.jpg"
-    },
-    "student7": {
-        "password": "pass007",
-        "name": "นาย ธนกร ชูศูนย์",
-        "age": 23,
-        "grade": "11th",
-        "image": "student15"
-    },
-    "student8": {
-        "password": "pass008",
-        "name": "นาย ปฏิวัติ ขำอวยชัย",
-        "age": 24,
-        "grade": "12th",
-        "image": "patiwat_khamuaychai.jpg"
-    },
-    "student9": {
-        "password": "pass009",
-        "name": "นางสาว ปวีณา ขาวเอี่ยม",
-        "age": 20,
-        "grade": "12th",
-        "image": "paveena_khaoem.jpg"
-    },
-    "student10": {
-        "password": "pass010",
-        "name": "นางสาว พิชญา บุญภิละ",
-        "age": 21,
-        "grade": "12th",
-        "image": "pitchaya_boonphila.jpg"
-    },
-    "student11": {
-        "password": "pass011",
-        "name": "นางสาว พิชญาภา เอี่ยมศรี",
-        "age": 22,
-        "grade": "11th",
-        "image": "pitchayapa_iemsri.jpg"
-    },
-    "student12": {
-        "password": "pass012",
-        "name": "นาย ภูคินทร์ อินทร์ธนู",
-        "age": 23,
-        "grade": "11th",
-        "image": "phukhin_inthanu.jpg"
-    },
-    "student13": {
-        "password": "pass013",
-        "name": "นาย ฤธิเดช อาจหาญ",
-        "age": 24,
-        "grade": "12th",
-        "image": "rithidet_achhan.jpg"
-    },
-    "student14": {
-        "password": "pass014",
-        "name": "นางสาว ลดาวรรณ โคกแก้ว",
-        "age": 20,
-        "grade": "12th",
-        "image": "ladaowan_kokkaew.jpg"
-    },
-    "student15": {
-        "password": "pass015",
-        "name": "นางสาว วรรณชนก กาญจนากร",
-        "age": 21,
-        "grade": "12th",
-        "image": "wanchanok_kanjanakorn.jpg"
-    },
-    "student16": {
-        "password": "pass016",
-        "name": "นางสาว วริศรา คำดี",
-        "age": 22,
-        "grade": "11th",
-        "image": "waritsara_kamdee.jpg"
-    },
-    "student17": {
-        "password": "pass017",
-        "name": "นาย สมศักดิ์",
-        "age": 23,
-        "grade": "11th",
-        "image": "somsak.jpg"
-    },
-    "student18": {
-        "password": "pass018",
-        "name": "นางสาว หฤทัย นิ่มขันทอง",
-        "age": 24,
-        "grade": "12th",
-        "image": "haruthai_nimkanthong.jpg"
-    },
-    "student19": {
-        "password": "pass019",
-        "name": "นางสาว อภิญญา ทาเกตุ",
-        "age": 20,
-        "grade": "12th",
-        "image": "aphinya_taketu.jpg"
-    },
-    "student20": {
-        "password": "pass020",
-        "name": "นาย อัษฎา จาดชนบท",
-        "age": 21,
-        "grade": "12th",
-        "image": "atsada_jadchanabot.jpg"
-    },
-    "student21": {
-        "password": "pass021",
-        "name": "นางสาว สโรชา ตันโต",
-        "age": 22,
-        "grade": "11th",
-        "image": "sarocha_tanto.jpg"
-    },
-    "student22": {
-        "password": "pass022",
-        "name": "นางสาว สิริพรรณ อุดทุมพร",
-        "age": 23,
-        "grade": "11th",
-        "image": "siriphan_udthumphon.jpg"
-    },
-    "student23": {
-        "password": "pass023",
-        "name": "นางสาว สิริวรรณ อุดทุมพร",
-        "age": 24,
-        "grade": "12th",
-        "image": "sirivann_udthumphon.jpg"
-    },
-    "student24": {
-        "password": "pass024",
-        "name": "นางสาว สุธิดา กลิ่นลำดวน",
-        "age": 22,
-        "grade": "12th",
-        "image": "suthida_klinduan.jpg"
-    },
-    "student25": {
-        "password": "pass025",
-        "name": "นางสาว สุพัชชา องประโคน",
-        "age": 23,
-        "grade": "12th",
-        "image": "supachara_ongprakon.jpg"
-    },
-    "student26": {
-        "password": "pass026",
-        "name": "นางสาว สุภัชชา จรรยา",
-        "age": 20,
-        "grade": "11th",
-        "image": "supatcha_janya.jpg"
-    },
-    "student27": {
-        "password": "pass027",
-        "name": "นางสาว สุภัสรา เวชโช",
-        "age": 21,
-        "grade": "11th",
-        "image": "supatsara_wechho.jpg"
-    },
-    "student28": {
-        "password": "pass028",
-        "name": "นาย จิรเมธ มาคณิต",
-        "age": 22,
-        "grade": "12th",
-        "image": "jirameth_makhanit.jpg"
-    },
-    "student29": {
-        "password": "pass029",
-        "name": "นางสาว ธิดา ดาปาน",
-        "age": 23,
-        "grade": "12th",
-        "image": "thida_dapan.jpg"
-    },
-    "student30": {
-        "password": "pass030",
-        "name": "นางสาว โสรญา โลหิตยา",
-        "age": 20,
-        "grade": "11th",
-        "image": "soraya_lohitaya.jpg"
-    },
-    "student31": {
-        "password": "pass031",
-        "name": "นางสาว วรพิชชา ไกรดลธรรม",
-        "age": 21,
-        "grade": "11th",
-        "image": "vorapitcha_kraydoltham.jpg"
-    },
-    "student32": {
-        "password": "pass032",
-        "name": "นางสาว พัชรวิภา ชะเอม",
-        "age": 22,
-        "grade": "12th",
-        "image": "patcharawipa_chaeam.jpg"
-    },
-    "student33": {
-        "password": "pass033",
-        "name": "นาย ภัทราวุธ บุญหลง",
-        "age": 23,
-        "grade": "12th",
-        "image": "patharawat_boonlong.jpg"
-    },
-    "dotmini": {
-        "password": "admin",
-        "name": "Dotmini",
-        "age": 23,
-        "grade": "12th",
-        "image": "images/facereg.jpg"
-    }
+    "students": [
+        {
+            "id": "student1",
+            "name": "นาย กฤษฎา รักดี",
+            "image": "images/1.jpg"
+        },
+        {
+            "id": "student2",
+            "name": "นาย ฐิติพงษ์ เสนาอินทร์",
+            "image": "images/2.jpg"
+        },
+        {
+            "id": "student3",
+            "name": "นาย ณัฐวัชร ใจตรง",
+            "image": "images/3.jpg"
+        },
+        {
+            "id": "student4",
+            "name": "นาย ตฤณ อ่อนท้วม",
+            "image": "images/4.jpg"
+        },
+        {
+            "id": "student5",
+            "name": "นาย เตชิต อัจจิมากูล",
+            "image": "images/5.jpg"
+        },
+        {
+            "id": "student6",
+            "name": "นาย เตชินท์ สอนโยธา",
+            "image": "images/6.jpg"
+        },
+        {
+            "id": "student7",
+            "name": "นาย ธนกร ชูศูนย์",
+            "image": "images/7.jpg"
+        },
+        {
+            "id": "student8",
+            "name": "นาย ปฏิวัติ ขำอวยชัย",
+            "image": "images/9.jpg"
+        },
+        {
+            "id": "student9",
+            "name": "นางสาว ปวีณา ขาวเอี่ยม",
+            "image": "images/10.jpg"
+        },
+        {
+            "id": "student10",
+            "name": "นางสาว พิชญา บุญภิละ",
+            "image": "images/11.jpg"
+        },
+        {
+            "id": "student11",
+            "name": "นางสาว พิชญาภา เอี่ยมศรี",
+            "image": "images/12.jpg"
+        },
+        {
+            "id": "student12",
+            "name": "นาย ภูคินทร์ อินทร์ธนู",
+            "image": "images/13.jpg"
+        },
+        {
+            "id": "student13",
+            "name": "นาย ฤธิเดช อาจหาญ",
+            "image": "images/14.jpg"
+        },
+        {
+            "id": "student14",
+            "name": "นางสาว ลดาวรรณ โคกแก้ว",
+            "image": "images/15.jpg"
+        },
+        {
+            "id": "student15",
+            "name": "นางสาว วรรณชนก กาญจนากร",
+            "image": "images/16.jpg"
+        },
+        {
+            "id": "student16",
+            "name": "นางสาว วริศรา คำดี",
+            "image": "images/17.jpg"
+        },
+        {
+            "id": "student17",
+            "name": "นาย สมศักดิ์",
+            "image": "images/18.jpg"
+        },
+        {
+            "id": "student18",
+            "name": "นางสาว หฤทัย นิ่มขันทอง",
+            "image": "images/19.jpg"
+        },
+        {
+            "id": "student19",
+            "name": "นางสาว อภิญญา ทาเกตุ",
+            "image": "images/20.jpg"
+        },
+        {
+            "id": "student20",
+            "name": "นาย อัษฎา จาดชนบท",
+            "image": "images/21.jpg"
+        },
+        {
+            "id": "student21",
+            "name": "นางสาว สโรชา ตันโต",
+            "image": "images/22.jpg"
+        },
+        {
+            "id": "student22",
+            "name": "นางสาว สิริพรรณ อุดทุมพร",
+            "image": "images/23.jpg"
+        },
+        {
+            "id": "student23",
+            "name": "นางสาว สิริวรรณ อุดทุมพร",
+            "image": "images/24.jpg"
+        },
+        {
+            "id": "student24",
+            "name": "นางสาว สุธิดา กลิ่นลำดวน",
+            "image": "images/25.jpg"
+        },
+        {
+            "id": "student25",
+            "name": "นางสาว สุพัชชา องประโคน",
+            "image": "images/26.jpg"
+        },
+        {
+            "id": "student26",
+            "name": "นางสาว สุภัชชา จรรยา",
+            "image": "images/27.jpg"
+        },
+        {
+            "id": "student27",
+            "name": "นางสาว สุภัสรา เวชโช",
+            "image": "images/28.jpg"
+        },
+        {
+            "id": "student28",
+            "name": "นาย จิรเมธ มาคณิต",
+            "image": "images/29.jpg"
+        },
+        {
+            "id": "student29",
+            "name": "นางสาว ธิดา ดาปาน",
+            "image": "images/30.jpg"
+        },
+        {
+            "id": "student30",
+            "name": "นางสาว โสรญา โลหิตยา",
+            "image": "images/31.jpg"
+        },
+        {
+            "id": "student31",
+            "name": "นางสาว วรพิชชา ไกรดลธรรม",
+            "image": "images/32.jpg"
+        },
+        {
+            "id": "student32",
+            "name": "นางสาว พัชรวิภา ชะเอม",
+            "image": "images/33.jpg"
+        },
+        {
+            "id": "student33",
+            "name": "นาย ภัทราวุธ บุญหลง",
+            "image": "images/34.jpg"
+        }
+    ]
 }
